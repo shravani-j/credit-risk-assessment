@@ -1,0 +1,7 @@
+Insight 1
+Higher-risk customers tend to request larger loans.
+3938 vs 2985
+
+Insight 2
+Higher-risk customers tend to take longer loan durations.
+24.86 months vs 19.21 months
